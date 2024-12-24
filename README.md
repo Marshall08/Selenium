@@ -1,1 +1,1 @@
-# Selenium
+С помощью Selenium собираем заголовки статей с сайта https://www.comnews.ru/news. ИнструкцияЖ 1. Скачать файл comnews.py 2. В переменную CHROMEDRIVER_PATH добавить путь к chromedriver. 3. Запустить программу через терминал с помощью команды python3 /Users/egormarsavin/comnews.py (подставить путь к файлу). 4. После завершения программы олкрыть файл omnews_headlines.csv через программу Microsoft Word - выбрать "другая кодировка" - UTF-8. 
